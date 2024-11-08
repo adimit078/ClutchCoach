@@ -344,7 +344,7 @@ body, html {
 
     .main-logo {
         order: 2;
-        min-width: 250px;
+        width: 250px;
     }
 
     .feature-card {
